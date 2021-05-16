@@ -23,6 +23,6 @@ For one-time volunteers, feel free to nab my attention by making a post in the i
 
 You can also get paid as well, just get the "me want pay" tag and we will note that. You can get paid by doing stuff like correcting grammar or programming articles and stuff. I may put a higher payment/salary for certain things that are higher priority, you can find them in the wiki section.
 
-For people who intend to stay with me to commit to the project for longer, you can also get commit commit permissions by going to the issues page and selecting the "long-term volunteer" tag. If you want to get paid, select the "me want pay" tag, and you can get paid the same way that the one-commit dudes do, with the exception that you will be paid out every month, with your actions stacking up until the paydate.
+For people who intend to stay with me to commit to the project for longer, you can also get commit permissions by going to the issues page and selecting the "long-term volunteer" tag. If you want to get paid, select the "me want pay" tag, and you can get paid the same way that the one-commit dudes do, with the exception that you will be paid out every month, with your actions stacking up until the paydate.
 
-Note that I only accept crypto payments since I kinda don't have access to banking/paypal.
+Note that I only accept crypto payments since I don't have access to banks/paypal.
