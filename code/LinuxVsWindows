@@ -22,4 +22,6 @@ tr:nth-child(even) {
 
 <h1>Windows and Linux are two operating systems that have been frequently compared in a battle to see which operating system is the best one to pick. In this article, I will compare the two OS's in depth by running my own copy of Windows and comparing it with a few Linux distros. I will compare it in categories such as resource usage and design.</h1>
 
-<strong>
+<p>As Windows 10 is mostly designed for home usage, I will be using Linux distributions with the same focus. Thus, I will be running Ubuntu, UbuntuDDE, and Debian.</p>
+
+
