@@ -3,7 +3,7 @@ website for a more detailed review on technology stuff
 
 DeepFriedTech is a website focused on giving more depth to technology product reviews by testing the products themselves to give a more detailed review
 
-# At DeepFriedTech, we will never publish a review on something until it is fully tested.
+# At DeepFriedTech, we will never publish a review on something until we at least try out the product ourselves.
 
 table of contents
 
